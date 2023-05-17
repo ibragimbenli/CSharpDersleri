@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_CSharp_Events_Olaylar", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_CSharp_Events_Uygulama", "..\10_CSharpDersleri_Events_Uygulama\_10_CSharp_Events_Uygulama.csproj", "{F620C3A2-BE89-49B0-97FE-80AD4091BBCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_CSharp_Try-Catch_Hata_Yonetimi", "..\_11_CSharp_Try-Catch_Hata_Yonetimi\_11_CSharp_Try-Catch_Hata_Yonetimi.csproj", "{54AF05DD-396E-47B4-83AE-1A1DAC904CBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F620C3A2-BE89-49B0-97FE-80AD4091BBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F620C3A2-BE89-49B0-97FE-80AD4091BBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F620C3A2-BE89-49B0-97FE-80AD4091BBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54AF05DD-396E-47B4-83AE-1A1DAC904CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AF05DD-396E-47B4-83AE-1A1DAC904CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AF05DD-396E-47B4-83AE-1A1DAC904CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AF05DD-396E-47B4-83AE-1A1DAC904CBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
