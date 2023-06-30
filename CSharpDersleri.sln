@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_CSharp_Try-Catch_Hata_Y
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Karar_Mekanizmaları_If_Else", "..\12_Karar_Mekanizmaları_If_Else\12_Karar_Mekanizmaları_If_Else.csproj", "{17C65495-0E3D-4FEC-8779-4E6B762340F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Switch - Case", "..\13_Switch - Case\13_Switch - Case.csproj", "{C3A4BC6B-E233-4296-B595-36F9BAB4ACF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{17C65495-0E3D-4FEC-8779-4E6B762340F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17C65495-0E3D-4FEC-8779-4E6B762340F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17C65495-0E3D-4FEC-8779-4E6B762340F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A4BC6B-E233-4296-B595-36F9BAB4ACF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A4BC6B-E233-4296-B595-36F9BAB4ACF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A4BC6B-E233-4296-B595-36F9BAB4ACF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A4BC6B-E233-4296-B595-36F9BAB4ACF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
