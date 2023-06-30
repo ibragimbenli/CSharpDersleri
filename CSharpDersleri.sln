@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Ternary_Operatoru", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_CSharpDersleri_Arrays-1", "..\15_CSharpDersleri_Arrays-1\15_CSharpDersleri_Arrays-1.csproj", "{80D40581-D790-44F1-8492-853E0DE41EBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_CSharpDersleri_Arrays - 2", "..\16_CSharpDersleri_Arrays - 2\16_CSharpDersleri_Arrays - 2.csproj", "{4E70DAA7-B740-4A11-9095-C2E632804E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{80D40581-D790-44F1-8492-853E0DE41EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80D40581-D790-44F1-8492-853E0DE41EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80D40581-D790-44F1-8492-853E0DE41EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E70DAA7-B740-4A11-9095-C2E632804E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E70DAA7-B740-4A11-9095-C2E632804E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E70DAA7-B740-4A11-9095-C2E632804E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E70DAA7-B740-4A11-9095-C2E632804E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
