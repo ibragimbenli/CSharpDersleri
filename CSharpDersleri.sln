@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Switch - Case", "..\13_S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Ternary_Operatoru", "..\14_Ternary_Operatoru\14_Ternary_Operatoru.csproj", "{C0BA7E5A-7AC4-4759-8E05-1C87D8771E7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_CSharpDersleri_Arrays-1", "..\15_CSharpDersleri_Arrays-1\15_CSharpDersleri_Arrays-1.csproj", "{80D40581-D790-44F1-8492-853E0DE41EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{C0BA7E5A-7AC4-4759-8E05-1C87D8771E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0BA7E5A-7AC4-4759-8E05-1C87D8771E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0BA7E5A-7AC4-4759-8E05-1C87D8771E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D40581-D790-44F1-8492-853E0DE41EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D40581-D790-44F1-8492-853E0DE41EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D40581-D790-44F1-8492-853E0DE41EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D40581-D790-44F1-8492-853E0DE41EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
